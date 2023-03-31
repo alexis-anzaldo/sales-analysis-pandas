@@ -1,6 +1,6 @@
 # sales-analysis-pandas
 
-## Sales analysis of electronic devices database from Kaggle: /kaggle/input/sales-dataset-of-ecommerce-electronic-products
+## Sales analysis of electronic devices from Kaggle database: /kaggle/input/sales-dataset-of-ecommerce-electronic-products
 
  * Python ( Pandas, Matplitlib)
  * Data Cleaning, Data Analysis, Data Visualization
